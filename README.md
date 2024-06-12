@@ -1,9 +1,8 @@
 <h2 align="center">Hello, I'm <b><a href="https://www.linkedin.com/in/nadimnesar/" target="_blank">Nesar Ahmed</a></b></h2>
-
 <p align="center">Full Stack Developer | Java | Spring Boot | Competitive Programmer</p>
 
 <hr />
-
+# Tech Stack
 ![Java](https://img.shields.io/badge/Java-FF4154?style=for-the-badge&labelColor=black&logo=openjdk&logoColor=FF4154)
 ![Spring Boot](https://img.shields.io/badge/SpringBoot-4EA94B?style=for-the-badge&labelColor=black&logo=spring&logoColor=4EA94B)
 ![Postgres](https://img.shields.io/badge/Postgres-2E7EEA?style=for-the-badge&labelColor=black&logo=postgresql&logoColor=2E7EEA)
