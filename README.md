@@ -17,6 +17,7 @@
 <hr />
 <h3>Social Media</h3>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-007BB5?style=for-the-badge&labelColor=black&logo=linkedin&logoColor=007BB5)](https://linkedin.com/in/nadimnesar)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-085E89?style=for-the-badge&labelColor=black&logo=linkedin&logoColor=085E89)](https://linkedin.com/in/nadimnesar)
+[![Telegram](https://img.shields.io/badge/Telegram-2EA5DB?style=for-the-badge&labelColor=black&logo=telegram&logoColor=2EA5DB)](https://t.me/nadimnesar)
 [![Medium](https://img.shields.io/badge/Medium-ffffff?style=for-the-badge&labelColor=black&logo=medium&logoColor=ffffff)](https://medium.com/@nadimnesar)
 
