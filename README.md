@@ -2,7 +2,8 @@
 <p align="center">Full Stack Developer | Java | Spring Boot | Competitive Programmer</p>
 
 <hr />
-# Tech Stack
+<h3>Tech Stack</h3>
+
 ![Java](https://img.shields.io/badge/Java-FF4154?style=for-the-badge&labelColor=black&logo=openjdk&logoColor=FF4154)
 ![Spring Boot](https://img.shields.io/badge/SpringBoot-4EA94B?style=for-the-badge&labelColor=black&logo=spring&logoColor=4EA94B)
 ![Postgres](https://img.shields.io/badge/Postgres-2E7EEA?style=for-the-badge&labelColor=black&logo=postgresql&logoColor=2E7EEA)
@@ -12,3 +13,7 @@
 ![Linux](https://img.shields.io/badge/Linux-F0DB4F?style=for-the-badge&labelColor=black&logo=linux&logoColor=F0DB4F)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&labelColor=black&logo=git&logoColor=F05032)
 
+<hr />
+<h3>Social Media</h3>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nadimnesar/)
