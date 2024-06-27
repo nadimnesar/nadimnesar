@@ -21,3 +21,7 @@
 [![Telegram](https://img.shields.io/badge/Telegram-2EA5DB?style=for-the-badge&labelColor=black&logo=telegram&logoColor=2EA5DB)](https://t.me/nadimnesar)
 [![Medium](https://img.shields.io/badge/Medium-ffffff?style=for-the-badge&labelColor=black&logo=medium&logoColor=ffffff)](https://medium.com/@nadimnesar)
 
+<hr />
+<div align="center">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nadimnesar&theme=dark" alt="nadimnesar's gitHub contribution" />
+</div>
