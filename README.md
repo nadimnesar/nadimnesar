@@ -11,6 +11,7 @@
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&labelColor=black&logo=html5&logoColor=E34F26)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&labelColor=black&logo=css3&logoColor=1572B6)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&labelColor=black&logo=bootstrap&logoColor=563D7C)
+![Thymeleaf](https://img.shields.io/badge/Thymeleaf-008000?style=for-the-badge&labelColor=black&logo=thymeleaf&logoColor=008000)
 ![Linux](https://img.shields.io/badge/Linux-F0DB4F?style=for-the-badge&labelColor=black&logo=linux&logoColor=F0DB4F)
 ![Github](https://img.shields.io/badge/Github-ffffff?style=for-the-badge&labelColor=black&logo=github&logoColor=ffffff)
 
