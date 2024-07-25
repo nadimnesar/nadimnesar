@@ -8,10 +8,11 @@
 ![C++](https://img.shields.io/badge/CPP-004283?style=for-the-badge&labelColor=black&logo=cplusplus&logoColor=004283)
 ![Spring Boot](https://img.shields.io/badge/SpringBoot-4EA94B?style=for-the-badge&labelColor=black&logo=spring&logoColor=4EA94B)
 ![Postgres](https://img.shields.io/badge/Postgres-2E7EEA?style=for-the-badge&labelColor=black&logo=postgresql&logoColor=2E7EEA)
+![Thymeleaf](https://img.shields.io/badge/Thymeleaf-008000?style=for-the-badge&labelColor=black&logo=thymeleaf&logoColor=008000)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&labelColor=black&logo=html5&logoColor=E34F26)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&labelColor=black&logo=css3&logoColor=1572B6)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&labelColor=black&logo=bootstrap&logoColor=563D7C)
-![Thymeleaf](https://img.shields.io/badge/Thymeleaf-008000?style=for-the-badge&labelColor=black&logo=thymeleaf&logoColor=008000)
+![Angular](https://img.shields.io/badge/Angular-FF0000?style=for-the-badge&labelColor=black&logo=angular&logoColor=FF0000)
 ![Linux](https://img.shields.io/badge/Linux-F0DB4F?style=for-the-badge&labelColor=black&logo=linux&logoColor=F0DB4F)
 ![Github](https://img.shields.io/badge/Github-ffffff?style=for-the-badge&labelColor=black&logo=github&logoColor=ffffff)
 
