@@ -1,5 +1,5 @@
 <h2 align="center">Hey, I'm <b><a href="https://www.linkedin.com/in/nadimnesar/" target="_blank">Nesar Ahmed</a></b></h2>
-<p align="center">Full Stack Developer | Competitive Programmer</p>
+<p align="center">Jr. Java Developer at Hubar Tech Ltd. | Competitive Programmer</p>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=nadimnesar&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="nadimnesar" /></p> 
 <hr />
 <h3>Tech Stack</h3>
