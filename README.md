@@ -1,5 +1,5 @@
 <h2 align="center">Hey, I'm <b><a href="https://www.linkedin.com/in/nadimnesar/" target="_blank">Nesar Ahmed</a></b></h2>
-<p align="center">Full Stack Software Engineer | Competitive Programmer</p>
+<p align="center">Software Engineer | Competitive Programmer</p>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=nadimnesar&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="nadimnesar" /></p> 
 <hr />
 <h3>Tech Stack</h3>
@@ -13,6 +13,7 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&labelColor=black&logo=css3&logoColor=1572B6)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&labelColor=black&logo=bootstrap&logoColor=563D7C)
 ![Angular](https://img.shields.io/badge/Angular-FF0000?style=for-the-badge&labelColor=black&logo=angular&logoColor=FF0000)
+![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&labelColor=black&logo=docker&logoColor=0db7ed)
 ![Jira](https://img.shields.io/badge/Jira-2E7EEA?style=for-the-badge&labelColor=black&logo=jira&logoColor=2E7EEA)
 ![Linux](https://img.shields.io/badge/Linux-F0DB4F?style=for-the-badge&labelColor=black&logo=linux&logoColor=F0DB4F)
 ![Github](https://img.shields.io/badge/Github-ffffff?style=for-the-badge&labelColor=black&logo=github&logoColor=ffffff)
