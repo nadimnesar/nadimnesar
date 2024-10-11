@@ -16,7 +16,7 @@
 ![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&labelColor=black&logo=docker&logoColor=0db7ed)
 ![Jira](https://img.shields.io/badge/Jira-2E7EEA?style=for-the-badge&labelColor=black&logo=jira&logoColor=2E7EEA)
 ![Linux](https://img.shields.io/badge/Linux-F0DB4F?style=for-the-badge&labelColor=black&logo=linux&logoColor=F0DB4F)
-![Github](https://img.shields.io/badge/Github-ffffff?style=for-the-badge&labelColor=black&logo=github&logoColor=ffffff)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&labelColor=black&logo=git&logoColor=F05032)
 
 <hr />
 <h3>Social Media</h3>
