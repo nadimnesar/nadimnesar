@@ -1,5 +1,5 @@
 <h2 align="center">Hey, I'm <b><a href="https://www.linkedin.com/in/nadimnesar/" target="_blank">Nesar Ahmed</a></b></h2>
-<p align="center">Software Engineer | Competitive Programmer</p>
+<p>I’m Nesar Ahmed, known online by the handle nadimnesar. I work as an Associate Software Engineer at Exabyting, where I focus on building scalable web solutions. I hold a B.Sc. in Computer Science & Engineering from DIU. I’m passionate about problem-solving, continuously honing my analytical and technical skills. Outside of work, I’m a movie enthusiast and love traveling whenever I get the chance.</p>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=nadimnesar&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="nadimnesar" /></p> 
 <hr />
 <h3>Tech Stack</h3>
