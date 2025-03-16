@@ -37,9 +37,9 @@ Beyond coding, I'm a movie enthusiast and love to travel whenever I get the chan
 
 ### 📫 Connect With Me  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-085E89?style=for-the-badge&labelColor=black&logo=linkedin-white&logoColor=085E89)](https://linkedin.com/in/nadimnesar)
-[![Telegram](https://img.shields.io/badge/Telegram-2EA5DB?style=for-the-badge&labelColor=black&logo=telegram&logoColor=2EA5DB)](https://t.me/nadimnesar)
-[![Medium](https://img.shields.io/badge/Medium-ffffff?style=for-the-badge&labelColor=black&logo=medium&logoColor=ffffff)](https://medium.com/@nadimnesar)  
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://linkedin.com/in/nadimnesar)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white)](https://t.me/nadimnesar)
+[![Linktree](https://img.shields.io/badge/LinkTree-1de9b6?logo=linktree&logoColor=white)](https://linktr.ee/nadimnesar)
 
 ---
 
