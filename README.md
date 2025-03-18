@@ -6,7 +6,7 @@
 </h2>
 
 ### 👨‍💻 About Me
-I am Nesar Ahmed, known online as nadimnesar. I work as an Associate Software Engineer at Exabyting, where I collaborate with bKash-RE on the Savings Project. I'm passionate about problem-solving, system design, and backend engineering, always striving to create robust and high-performance systems.
+I am Nesar Ahmed, known online as nadimnesar. I work as an Associate Software Engineer at Exabyting, where I collaborate with bKash-RE on the Savings Project. I'm passionate about problem-solving, system design, backend engineering and always striving to create robust and high-performance systems.
 
 I've completed my undergraduation on Computer Science & Engineering form DIU. Beyond tech, I'm a movie enthusiast and love to travel whenever I get the chance!
 
