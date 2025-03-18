@@ -32,6 +32,4 @@ I've completed my undergraduation on Computer Science & Engineering form DIU. Be
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white)](https://t.me/nadimnesar)
 [![Linktree](https://img.shields.io/badge/LinkTree-1de9b6?logo=linktree&logoColor=white)](https://linktr.ee/nadimnesar)
 
----
-
 🔥 Let’s connect and build something amazing!
