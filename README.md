@@ -19,7 +19,7 @@ I've completed my undergraduation on Computer Science & Engineering form DIU. Be
 - **Backend**: `Spring Boot`
 - **Frontend**: `Angular`
 - **Database** - `PostgreSQL` | `MySQL` | `DynamoDB`
-- **Tools & Technologies** - `Redis` | `Nginx` | `Git` | `Docker` | `Linux`
+- **Tools & Technologies** - `Redis` | `Nginx` | `Docker` | `Git` | `Linux`
 - **Cloud Services** - `AWS`
 
 ---
