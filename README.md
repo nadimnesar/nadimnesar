@@ -17,7 +17,7 @@ I've completed my undergraduation on Computer Science & Engineering from DIU. Be
 ---
 ### 🚀 Tech Stack  
 
-- **Languages**: `Java` | `C++` | `Golang`
+- **Languages**: `Java` | `Golang` | `C++`
 - **Backend**: `Spring Boot`
 - **Frontend**: `Angular`
 - **Database** - `PostgreSQL` | `MySQL` | `DynamoDB`
