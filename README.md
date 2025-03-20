@@ -12,7 +12,7 @@ I am Nesar Ahmed, known online as nadimnesar. I work as an Associate Software En
 
 I've completed my undergraduation on Computer Science & Engineering from DIU. Beyond tech, I'm a movie enthusiast and love to travel whenever I get the chance!
 
-> 💡 *I'm open to new opportunities in the domain of web technologies, backend engineering and micro-services.*
+> 💡 *I'm open to new opportunities in the domain of backend engineering and micro-services.*
 
 ---
 ### 🚀 Tech Stack  
