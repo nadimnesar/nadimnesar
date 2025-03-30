@@ -1,10 +1,8 @@
 <h2 align="center">Hey there, I'm <b><a href="https://www.linkedin.com/in/nadimnesar/" target="_blank">Nesar Ahmed</a></b> 👋
-<p align="center">
-
-![YouTube](https://img.shields.io/youtube/channel/subscribers/UCTkDXJtW62n4w0HgWywfsfQ?color=%23FFFFFF&logo=Youtube&logoColor=%23FF0000&style=for-the-badge)
-<img src="https://komarev.com/ghpvc/?username=nadimnesar&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
-
-</p>
+  <br/><br/>
+  <p align="center">
+    <img src="https://komarev.com/ghpvc/?username=nadimnesar&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+  </p>
 </h2>
 
 ### 👨‍💻 About Me
